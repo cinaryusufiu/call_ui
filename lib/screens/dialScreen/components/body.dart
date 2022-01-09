@@ -1,6 +1,4 @@
 import 'package:callkit_app/constant.dart';
-import 'package:callkit_app/screens/auidiowithimage/component/body.dart';
-import 'package:callkit_app/screens/auidiowithimage/component/rounded_button.dart';
 import 'package:callkit_app/size_config.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';

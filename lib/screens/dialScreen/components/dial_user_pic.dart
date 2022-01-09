@@ -26,11 +26,9 @@ class DialUserPic extends StatelessWidget {
               0.5,
               1
             ])),
-        child: ClipRRect(
-          child: Image.asset(
-            image,
-            fit: BoxFit.cover,
-          ),
+        child: Image.asset(
+          image,
+          fit: BoxFit.cover,
         ));
   }
 }

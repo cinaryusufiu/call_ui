@@ -1,5 +1,5 @@
 import 'package:callkit_app/constant.dart';
-import 'package:callkit_app/screens/auidiowithimage/component/rounded_button.dart';
+import 'package:callkit_app/screens/audiowithimage/component/rounded_button.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
 
